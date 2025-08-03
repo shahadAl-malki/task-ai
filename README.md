@@ -32,5 +32,4 @@ You: what is your name
 
 Chatbot: My name is Smart Methods bot.
 
-نسخ
-Chatbot: My name is Smart Methods bot.
+
